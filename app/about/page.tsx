@@ -16,7 +16,7 @@ export default function About() {
       </p>
 
       <p className="text-red-500 font-semibold mt-6">
-        ⚠️ We never ask for fees or sensitive financial information.
+        ⚠️ We never let you down. 
       </p>
     </div>
   );
