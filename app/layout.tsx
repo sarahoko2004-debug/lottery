@@ -3,7 +3,7 @@ import "./globals.css";
 
 
 export const metadata = {
-  title: "HopeFund",
+  title: "LifeFund",
   description: "Helping people through direct support",
 };
 

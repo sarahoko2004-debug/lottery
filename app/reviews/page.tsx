@@ -16,21 +16,21 @@ const testimonies: Testimony[] = [
     country: "Alaska",
     message:
       "This support helped me pay my kids’ school fees when I was struggling financially. I no longer have to worry about missing tuition deadlines, and it has really given my family peace of mind.",
-    image: Aa,
+    image: Bb,
   },
   {
     name: "David O.",
     country: "Texas",
     message:
       "During a very challenging time, I received unexpected help from this initiative. It allowed me to cover urgent bills and focus on rebuilding my life. I’m truly grateful for this opportunity.",
-    image: Bb,
+    image: Ee,
   },
   {
     name: "Mario L.",
     country: "Pennsylvania",
     message:
       "The process was simple and transparent, and I felt supported every step of the way. Thanks to this help, I was able to solve a major financial problem without added stress.",
-    image: Cc,
+    image: Aa,
   },
   {
     name: "James T.",
@@ -44,7 +44,7 @@ const testimonies: Testimony[] = [
     country: "Tennessee",
     message:
       "This came at the perfect time when my family needed it most. It helped us cover essential expenses, and I can’t thank the team enough for the timely support and guidance.",
-    image: Ee,
+    image: Cc,
   },
   {
     name: "Clara M.",
@@ -79,7 +79,7 @@ const testimonies: Testimony[] = [
     country: "South Carolina",
     message:
       "The process was transparent, and the help I received was timely and impactful. I was able to address some urgent needs and feel more secure about the future.",
-    image: Ll,
+    image: Oo,
   },
   {
     name: "Linda R.",
@@ -100,7 +100,7 @@ const testimonies: Testimony[] = [
     country: "Arizona",
     message:
       "I am incredibly thankful for this initiative. It helped me support my family and handle unexpected challenges without feeling overwhelmed. Truly life-changing.",
-    image: Oo,
+    image: Ll,
   },
 ];
 

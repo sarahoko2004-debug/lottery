@@ -4,7 +4,7 @@ import { lottery, donation} from "../data";
 
 export default function Hero() {
   return (
-    <section className="flex flex-col h-[80%] items-center justify-center text-center px-6 py-20 bg-gradient-to-b from-slate-900 to-slate-800 text-white">
+    <section className="flex flex-col h-[80%] items-center justify-center text-center px-6 py-20  bg-gradient-to-b from-[#0f172a] via-[#020617] to-black text-white">
 
         <Image src={lottery} alt="Lottery Winner" width={400} height={300}/>
 
@@ -13,10 +13,12 @@ export default function Hero() {
       </h1>
 
       <p className="text-lg text-gray-300 mb-6 max-w-xl">
-       I was fortunate enough to win the lottery and after taking sometime to process everything, I decided to help humanity and use the winnings to help those in need. At first i wanted to stay completely private , but i realized this kind of opportunity could make a real difference in people's lives.   there are so many people going through tough times right now, and if i can helpin anyway i truly want to.
-      </p>
+      After winning the lottery, I took some time to reflect on what it really means and how I want to move forward. I’ve come to a clear decision: I want to use this opportunity to support people in need.
 
-      <Link href="https://www.megamillions.com/Winners-Gallery/2026/Unreal-feeling-for-Illinois-jackpot-winner.aspx">
+Initially, I intended to stay completely private. However, I’ve realized that an opportunity like this can create real, meaningful change. Many people are facing difficult challenges, and if I’m in a position to help, I feel a responsibility to do so.
+</p>
+
+      <Link href="https://www.megamillions.com/News/2026/Lucky-Georgian-Welcomes-the-New-Year-by-Claiming-H.aspx">
         <button className="bg-green-500 hover:bg-green-600 px-6 py-3 rounded-lg font-semibold transition">
           
           Learn More About My Story
@@ -30,8 +32,7 @@ export default function Hero() {
         <p>3. You Receive Support</p>
       </div>
 
-      <h1 className="text-4xl md:text-5xl font-bold mb-4 py-2">Donation</h1>
-      <Image src={donation} alt="Donation" width={400} height={300}/>
+      
     </section>
   );
 }
