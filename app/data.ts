@@ -1,4 +1,4 @@
-import lottery from "./asset/teddy.png";
+import lottery from "./asset/lottery-winner.jpeg";
 import donation from "./asset/donation.jpeg";
 import Aa from "./asset/A.jpeg";
 import Bb from "./asset/B.jpeg";
